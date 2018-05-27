@@ -1,6 +1,6 @@
 jQuery Statements
 
--- Pretty much every jQuery statement starts with a $ sign (or the jQuery keyword)
+--  Pretty much every jQuery statement starts with a $ sign (or the jQuery keyword)
 
  Ex.
 
@@ -8,4 +8,18 @@ jQuery Statements
  $("main-heading");
 
 
+--  jQuery object is based on the array type
+--  No matter what we ask for in the DOM using jQuery
+    the jQuery statement will always return a jQuery object
+    that represents that element
 
+
+document.getElementById("page-title");
+$("#page-title");
+
+
+
+var heading = $("#page-title");
+heading.css({position: "relative"});
+
+heading.animate({left: 100});
