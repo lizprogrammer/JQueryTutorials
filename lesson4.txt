@@ -1,0 +1,11 @@
+jQuery Statements
+
+-- Pretty much every jQuery statement starts with a $ sign (or the jQuery keyword)
+
+ Ex.
+
+ document.getElementById("main-heading");
+ $("main-heading");
+
+
+
