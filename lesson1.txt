@@ -1,6 +1,6 @@
 JQuery for Beginners #1 - Introduction
 
--- What jQuery is and how we use it
+-- What jQuery is and how we use it?
 -- jQuery and the DOM using CSS selectors
 -- Adding, removing and changing HTML
 -- jQuery event handling
