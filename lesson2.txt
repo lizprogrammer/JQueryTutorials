@@ -1,0 +1,8 @@
+jQuery!
+
+-- Massive
+-- Free
+-- Open Source
+-- JavaScript Library
+
+It is not a programming language in it's own right!
